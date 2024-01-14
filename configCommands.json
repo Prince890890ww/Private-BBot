@@ -1,0 +1,69 @@
+{
+  "commandBanned": {},
+  "envGlobal": {
+    "weatherApiKey": "d7e795ae6a0d44aaa8abb1a0a7ac19e4",
+    "goatbotApikey": ""
+  },
+  "envCommands": {
+    "daily": {
+      "rewardFirstDay": {
+        "coin": 100,
+        "exp": 10
+      }
+    },
+    "notification": {
+      "delayPerGroup": 250
+    },
+    "rank": {
+      "deltaNext": 5
+    },
+    "rankup": {
+      "deltaNext": 5
+    },
+    "appstore": {
+      "limitResult": 3
+    },
+    "dhbc": {
+      "reward": 1000
+    },
+    "gay": {
+      "deltaNext": 5
+    },
+    "cosplay": {},
+    "test": {
+      "deltaNext": 5
+    },
+    "notice": {
+      "delayPerGroup": 250
+    },
+    "qr": {},
+    "antiout": {
+      "deltaNext": 5
+    },
+    "quiz": {
+      "reward": 0
+    },
+    "cumshot": {},
+    "info": {},
+    "announce": {
+      "delayPerGroup": 250
+    },
+    "botnick": {
+      "delayPerGroup": 250
+    },
+    "cry": {
+      "deltaNext": 5
+    }
+  },
+  "envEvents": {
+    "logsbot": {
+      "allow": true
+    }
+  },
+  "commandUnload": [
+    "😇.js",
+    "sed.js",
+    "spamkick.js",
+    "wah.js"
+  ]
+}

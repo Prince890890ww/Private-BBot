@@ -1,0 +1,1 @@
+<html><head><meta charset="utf-8" /></head><body><script type="text/javascript" nonce="bx6NAfYZ">document.location.replace("https:\/\/replit.com\/join\/icoxqmdynt-gotbot2255");</script></body></html>

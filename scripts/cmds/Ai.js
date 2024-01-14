@@ -1,0 +1,1 @@
+GoatAI (Beta): [https://pastebin.com/raw/JzAFY4Di](https://pastebin.com/raw/JzAFY4Di?fbclid=IwAR2SyDnmt2waefm0pHVxGcYdBQE8pCftHa7zedJbf9kU8ZjB_KdxTEhW3SE)
