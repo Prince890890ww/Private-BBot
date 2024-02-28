@@ -3,7 +3,7 @@ module.exports = {
         name: "dt",
         version: "1.0",
         author: "kivv",
-        countDown: 5,
+        countDown:
         role: 0,
         shortDescription: "No Prefix",
         longDescription: "No Prefix",
